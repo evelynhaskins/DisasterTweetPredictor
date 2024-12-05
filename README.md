@@ -1,7 +1,3 @@
-Here’s a description of the steps taken in the project, which can be included in the README:
-
----
-
 # Disaster Tweet Classification - Kaggle Competition
 
 This project focuses on classifying tweets as disaster-related or non-disaster-related using a machine learning model. The dataset used for this project is sourced from the Kaggle competition: [NLP - Getting Started](https://www.kaggle.com/c/nlp-getting-started/code).
